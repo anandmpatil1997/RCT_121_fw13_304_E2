@@ -1,0 +1,44 @@
+body{
+    background-color: teal;
+}
+.container{
+    background-color: white;
+    width: 40%;
+    height: 300px;
+    margin: 15% auto;
+    border: 1px solid white;
+}
+.inputs{
+    display: flex;
+    flex-direction: column;
+    margin: 3rem;
+}
+
+input{
+    width: 70%;
+    padding: 1rem;
+    margin: .5rem;
+}
+.nextbtn{
+    width: 100px;
+    padding: 1rem;
+    border: none;
+    background-color: teal;
+    color: white;
+    margin: 0rem 70% 
+    
+}
+.prevbtn{
+    width: 100px;
+    padding: 1rem;
+    border: none;
+    background-color: teal;
+    color: white;
+    margin: 0 5% ;
+}
+.usercard{
+    background-color: white;
+    margin: 5rem auto;
+    width: 400px;
+    padding: 2rem;
+}
